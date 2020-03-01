@@ -34,7 +34,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.differentCharactersOfString">
+    <configuration name="differentCharactersOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="differentCharactersOfString" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hello" />
       <module name="java" />
@@ -44,6 +51,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.differentCharactersOfString" />
         <item itemvalue="Application.hello" />
       </list>
     </recent_temporary>
@@ -58,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583044923235</updated>
-      <workItem from="1583044924429" duration="571000" />
+      <workItem from="1583044924429" duration="1402000" />
     </task>
     <servers />
   </component>
