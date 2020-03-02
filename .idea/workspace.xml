@@ -15,6 +15,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YW4Gt3uhWzHG2bI0QfOKDiDtuJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
@@ -34,7 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.differentCharactersOfString">
+  <component name="RunManager" selected="Application.newDifferentChacters">
     <configuration name="differentCharactersOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="differentCharactersOfString" />
       <module name="java" />
@@ -49,8 +52,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="newDifferentChacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newDifferentChacters" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.newDifferentChacters" />
         <item itemvalue="Application.differentCharactersOfString" />
         <item itemvalue="Application.hello" />
       </list>
@@ -66,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583044923235</updated>
-      <workItem from="1583044924429" duration="1402000" />
+      <workItem from="1583044924429" duration="3302000" />
     </task>
     <servers />
   </component>
