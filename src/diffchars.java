@@ -17,13 +17,9 @@ public class diffchars {
                     System.out.print(ch+" ");
                     break;
                 }
-
-
-
             }
-
         }
-        System.out.println("\n Total numbers of characters used is :"+count);
+        System.out.println("\n Total numbers of different characters used are :"+count);
 
     }
 }
