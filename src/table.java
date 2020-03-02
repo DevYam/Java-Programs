@@ -18,19 +18,8 @@ public class table {
         System.out.println("Do you want to print another table - [Y(yes) | N(no)] : ");
         Scanner Scan1 = new Scanner(System.in);
         String choice = Scan1.nextLine();
-        if (choice.equals("y")){
-            printTable();
-            askAgain();
-        }
-        else if (choice.equals("yes")){
-            printTable();
-            askAgain();
-        }
-        else if (choice.equals("Y")){
-            printTable();
-            askAgain();
-        }
-        else if (choice.equals("Yes")){
+
+        if (choice.equals("y")||choice.equals("yes")||choice.equals("Y")||choice.equals("Yes")){
             printTable();
             askAgain();
         }
