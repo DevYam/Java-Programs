@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1fa6fea-ef20-468b-9f4a-7a1b5ca8d6a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/elapsedTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/countDivisors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,16 +40,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.elapsedTime">
-    <configuration name="diffchars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="diffchars" />
+  <component name="RunManager" selected="Application.countDivisors">
+    <configuration name="countDivisors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="countDivisors" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="differentCharactersOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="differentCharactersOfString" />
+    <configuration name="diffchars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="diffchars" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.countDivisors" />
         <item itemvalue="Application.elapsedTime" />
         <item itemvalue="Application.table" />
         <item itemvalue="Application.diffchars" />
         <item itemvalue="Application.newDifferentChacters" />
-        <item itemvalue="Application.differentCharactersOfString" />
       </list>
     </recent_temporary>
   </component>
@@ -97,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583044923235</updated>
       <workItem from="1583044924429" duration="3302000" />
-      <workItem from="1583131334696" duration="8016000" />
+      <workItem from="1583131334696" duration="10106000" />
     </task>
     <servers />
   </component>
