@@ -6,7 +6,6 @@ public class elapsedTime {
         long startTime = 0;
         long endTime = 0;
         double elapsedTime = 0;
-
         startTime = System.currentTimeMillis();
         System.out.println("Enter your name");
         Scanner sc = new Scanner(System.in);
@@ -16,7 +15,6 @@ public class elapsedTime {
         System.out.print("Total time elapsed in milliseconds is :");
         endTime = System.currentTimeMillis();
         elapsedTime = (endTime-startTime);
-        System.out.print(elapsedTime/100);
-
+        System.out.print(elapsedTime/1000);
     }
 }

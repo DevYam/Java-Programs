@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1fa6fea-ef20-468b-9f4a-7a1b5ca8d6a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/java/linkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Linkedlist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/elapsedTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/elapsedTime.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Linkedlist">
+  <component name="RunManager" selected="Application.elapsedTime">
     <configuration name="Linkedlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Linkedlist" />
       <module name="java" />
@@ -56,15 +55,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="countDivisors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="countDivisors" />
+    <configuration name="countNNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="countNNames" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="countNNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="countNNames" />
+    <configuration name="elapsedTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="elapsedTime" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.elapsedTime" />
         <item itemvalue="Application.Linkedlist" />
         <item itemvalue="Application.linkedList" />
         <item itemvalue="Application.compareNames" />
         <item itemvalue="Application.countNNames" />
-        <item itemvalue="Application.countDivisors" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +99,8 @@
       <workItem from="1583044924429" duration="3302000" />
       <workItem from="1583131334696" duration="11748000" />
       <workItem from="1583168750602" duration="1542000" />
-      <workItem from="1583170767101" duration="5365000" />
+      <workItem from="1583170767101" duration="5838000" />
+      <workItem from="1583215348117" duration="265000" />
     </task>
     <servers />
   </component>
