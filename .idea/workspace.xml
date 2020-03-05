@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1fa6fea-ef20-468b-9f4a-7a1b5ca8d6a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/unparameterizedConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/getterSetterManual.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,6 +24,7 @@
   <component name="ProjectId" id="1YW4Gt3uhWzHG2bI0QfOKDiDtuJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
@@ -40,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.unparameterizedConstructor">
+  <component name="RunManager" selected="Application.getterSetterManual">
     <configuration name="Linkedlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Linkedlist" />
       <module name="java" />
@@ -55,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="linkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedList" />
+    <configuration name="getterSetterManual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="getterSetterManual" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.getterSetterManual" />
         <item itemvalue="Application.unparameterizedConstructor" />
         <item itemvalue="Application.parameterizedConstructor" />
         <item itemvalue="Application.elapsedTime" />
         <item itemvalue="Application.Linkedlist" />
-        <item itemvalue="Application.linkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +102,7 @@
       <workItem from="1583168750602" duration="1542000" />
       <workItem from="1583170767101" duration="5838000" />
       <workItem from="1583215348117" duration="1004000" />
-      <workItem from="1583339203654" duration="2194000" />
+      <workItem from="1583339203654" duration="3464000" />
     </task>
     <servers />
   </component>
