@@ -15,10 +15,19 @@ public class DisplayArray {
         }
 
         // Displaying a boolean array
+        System.out.println();
         boolean booleansArray[] = new boolean[5];       // Boolean array is by default initialized to false
         for (boolean b :booleansArray){
             System.out.println(b);
 
+        }
+
+        // Displaying a string array
+        System.out.println();
+
+        String stringArray[] = new String[5]; // This is a class type so initialized to null by default
+        for (String str : stringArray){
+            System.out.println(str);
         }
 
     }
