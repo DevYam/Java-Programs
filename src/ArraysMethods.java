@@ -14,6 +14,29 @@ public class ArraysMethods {
             System.out.println("Both arrays are equal");
         }else
             System.out.println("They are not equal");
+
+        // checking the implementation of fill method of the Arrays Class
+        int fillArray[] = new int[10];
+        Arrays.fill(fillArray,0,5,10);
+        // If we does not want to specify the from index and to index after array name then only the below signature
+        // will initialize all the elements of the array
+//        Arrays.fill(fillArray,20);
+
+        for (int i:fillArray
+             ) {
+            System.out.println(i);
+            // All the elements from 0 to 5 are initialized to 10 and rest are still 0
+        }
+
+        // Implementing the sort method of the arrays class
+
+        int arr123[] = {23,12,3,43,99,34,1,76,9,0,24};
+        Arrays.sort(arr123);        // Elements are sorted in original array itself
+        for (int i:arr123
+             ) {
+            System.out.print(i+" "); // Prints the elements in ascending order
+        }
+
     }
 
 }
