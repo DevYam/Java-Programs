@@ -13,5 +13,13 @@ public class DisplayArray {
         for(int i:arr){
             System.out.println(i);
         }
+
+        // Displaying a boolean array
+        boolean booleansArray[] = new boolean[5];       // Boolean array is by default initialized to false
+        for (boolean b :booleansArray){
+            System.out.println(b);
+
+        }
+
     }
 }
