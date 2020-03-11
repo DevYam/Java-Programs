@@ -5,7 +5,7 @@ public class ArraysMethods {
     // Arrays library class method binary search
     public static void main(String[] args) {
         int arr[] = {10,20,30,40,50};
-        int searchResult = Arrays.binarySearch(arr,30);
+        int searchResult = Arrays.binarySearch(arr,30);     // Note - Binary search only works for sorted arrays
         System.out.println("Search result is  = "+searchResult);  // Result is 2, it returns the array index which is 2
 
         // Now checking the implementation of equals method
