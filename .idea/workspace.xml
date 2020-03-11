@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1fa6fea-ef20-468b-9f4a-7a1b5ca8d6a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/VectorClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VectorExample1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/ArraysMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/ArraysMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArraysMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/VectorClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/VectorClass.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VectorClass">
+  <component name="RunManager" selected="Application.VectorExample1">
     <configuration name="ArraysMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysMethods" />
       <module name="java" />
@@ -53,13 +52,6 @@
     </configuration>
     <configuration name="DisplayArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DisplayArray" />
-      <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DriverClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DriverClass" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,13 +71,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VectorExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VectorExample1" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VectorExample1" />
         <item itemvalue="Application.VectorClass" />
         <item itemvalue="Application.ArraysMethods" />
         <item itemvalue="Application.DisplayArray" />
         <item itemvalue="Application.FinalArguments" />
-        <item itemvalue="Application.DriverClass" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +106,7 @@
       <workItem from="1583339203654" duration="4910000" />
       <workItem from="1583642927869" duration="1505000" />
       <workItem from="1583813726364" duration="8190000" />
-      <workItem from="1583898027754" duration="546000" />
+      <workItem from="1583898027754" duration="1980000" />
     </task>
     <servers />
   </component>
