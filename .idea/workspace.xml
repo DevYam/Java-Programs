@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1fa6fea-ef20-468b-9f4a-7a1b5ca8d6a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EqualsAndEqualsIgnoreCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompareToAndCompareToIgnoreCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StartsWithAndEndsWIthStringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StartsWithAndEndsWIthStringMethods.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,9 +42,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EqualsAndEqualsIgnoreCase">
-    <configuration name="AskedQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AskedQuestion" />
+  <component name="RunManager" selected="Application.CompareToAndCompareToIgnoreCase">
+    <configuration name="CompareToAndCompareToIgnoreCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompareToAndCompareToIgnoreCase" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetCharsStringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GetCharsStringMethods" />
+    <configuration name="StartsWithAndEndsWIthStringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StartsWithAndEndsWIthStringMethods" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CompareToAndCompareToIgnoreCase" />
+        <item itemvalue="Application.StartsWithAndEndsWIthStringMethods" />
         <item itemvalue="Application.EqualsAndEqualsIgnoreCase" />
         <item itemvalue="Application.ToCharArrayMethodOfStingClass" />
         <item itemvalue="Application.GetBytesMethodOfStringClass" />
-        <item itemvalue="Application.GetCharsStringMethods" />
-        <item itemvalue="Application.AskedQuestion" />
       </list>
     </recent_temporary>
   </component>
