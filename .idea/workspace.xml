@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1fa6fea-ef20-468b-9f4a-7a1b5ca8d6a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/IndexOfAndLastIndexOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SubstringMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IndexOfAndLastIndexOf">
+  <component name="RunManager" selected="Application.SubstringMethod">
     <configuration name="CompareToAndCompareToIgnoreCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CompareToAndCompareToIgnoreCase" />
       <module name="java" />
@@ -70,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToCharArrayMethodOfStingClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ToCharArrayMethodOfStingClass" />
+    <configuration name="SubstringMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SubstringMethod" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubstringMethod" />
         <item itemvalue="Application.IndexOfAndLastIndexOf" />
         <item itemvalue="Application.CompareToAndCompareToIgnoreCase" />
         <item itemvalue="Application.StartsWithAndEndsWIthStringMethods" />
         <item itemvalue="Application.EqualsAndEqualsIgnoreCase" />
-        <item itemvalue="Application.ToCharArrayMethodOfStingClass" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +107,7 @@
       <workItem from="1583813726364" duration="8190000" />
       <workItem from="1583898027754" duration="5369000" />
       <workItem from="1583937793216" duration="4969000" />
-      <workItem from="1584161596233" duration="3612000" />
+      <workItem from="1584161596233" duration="4463000" />
     </task>
     <servers />
   </component>
