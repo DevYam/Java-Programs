@@ -8,7 +8,9 @@ public class DoubleEqualToMethod {
         AA a2 = new AA();
         AA a3 = a1;
 
-        System.out.println(a1==a2); // Checks for reference that is not same ==> false
+
+        // IT checks for objects references if they are pointing to same object then only returns true
+        System.out.println(a1==a2); // false
         System.out.println(a1==a3); // true because references are pointing to same object
 
         // Lets check equals methods from the object class simultaneously
