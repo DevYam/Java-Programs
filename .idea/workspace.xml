@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1fa6fea-ef20-468b-9f4a-7a1b5ca8d6a1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/push.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/push.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OverridingEqualsMethodOfObjectClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/DoubleEqualToMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/DoubleEqualToMethod.class" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,35 +29,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.DoubleEqualToMethod">
-    <configuration name="AdditionSubtractionAndMultiplicationViaCommandLineArguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdditionSubtractionAndMultiplicationViaCommandLineArguments" />
-      <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.OverridingEqualsMethodOfObjectClass">
     <configuration name="CallOfMethodsInSubAndSuperClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CallOfMethodsInSubAndSuperClasses" />
-      <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CommandLineArguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CommandLineArguments" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,13 +51,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OverridingEqualsMethodOfObjectClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OverridingEqualsMethodOfObjectClass" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="table" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OverridingEqualsMethodOfObjectClass" />
+        <item itemvalue="Application.table" />
         <item itemvalue="Application.DoubleEqualToMethod" />
         <item itemvalue="Application.HashCodeMethod" />
         <item itemvalue="Application.CallOfMethodsInSubAndSuperClasses" />
-        <item itemvalue="Application.AdditionSubtractionAndMultiplicationViaCommandLineArguments" />
-        <item itemvalue="Application.CommandLineArguments" />
       </list>
     </recent_temporary>
   </component>
@@ -126,5 +115,27 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="253" key="GridCell.Tab.0.bottom" timestamp="1585076306670">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="253" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1585076306670" />
+    <state width="1638" height="253" key="GridCell.Tab.0.center" timestamp="1585076306668">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="253" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1585076306668" />
+    <state width="1638" height="253" key="GridCell.Tab.0.left" timestamp="1585076306667">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="253" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1585076306667" />
+    <state width="1638" height="253" key="GridCell.Tab.0.right" timestamp="1585076306669">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="253" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1585076306669" />
+    <state x="505" y="230" width="670" height="676" key="search.everywhere.popup" timestamp="1585076639853">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="505" y="230" width="670" height="676" key="search.everywhere.popup/0.23.1680.947@0.23.1680.947" timestamp="1585076639853" />
   </component>
 </project>
