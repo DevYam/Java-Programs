@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1fa6fea-ef20-468b-9f4a-7a1b5ca8d6a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OverridingEqualsMethodOfObjectClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OverloadingEqualsMethodOfObjectClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/DoubleEqualToMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/DoubleEqualToMethod.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,14 +28,19 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
-  <component name="RunManager" selected="Application.OverridingEqualsMethodOfObjectClass">
-    <configuration name="CallOfMethodsInSubAndSuperClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CallOfMethodsInSubAndSuperClasses" />
-      <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.OverloadingEqualsMethodOfObjectClass">
     <configuration name="DoubleEqualToMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DoubleEqualToMethod" />
       <module name="java" />
@@ -46,6 +50,13 @@
     </configuration>
     <configuration name="HashCodeMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashCodeMethod" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OverloadingEqualsMethodOfObjectClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OverloadingEqualsMethodOfObjectClass" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OverloadingEqualsMethodOfObjectClass" />
         <item itemvalue="Application.OverridingEqualsMethodOfObjectClass" />
         <item itemvalue="Application.table" />
         <item itemvalue="Application.DoubleEqualToMethod" />
         <item itemvalue="Application.HashCodeMethod" />
-        <item itemvalue="Application.CallOfMethodsInSubAndSuperClasses" />
       </list>
     </recent_temporary>
   </component>
