@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1fa6fea-ef20-468b-9f4a-7a1b5ca8d6a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OverloadingEqualsMethodOfObjectClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OverridingToStringMethodOfObjectClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OverloadingEqualsMethodOfObjectClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OverloadingEqualsMethodOfObjectClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,16 +41,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OverloadingEqualsMethodOfObjectClass">
+  <component name="RunManager" selected="Application.OverridingToStringMethodOfObjectClass">
     <configuration name="DoubleEqualToMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DoubleEqualToMethod" />
-      <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HashCodeMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashCodeMethod" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,6 +63,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OverridingToStringMethodOfObjectClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OverridingToStringMethodOfObjectClass" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="table" />
       <module name="java" />
@@ -78,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OverridingToStringMethodOfObjectClass" />
         <item itemvalue="Application.OverloadingEqualsMethodOfObjectClass" />
         <item itemvalue="Application.OverridingEqualsMethodOfObjectClass" />
         <item itemvalue="Application.table" />
         <item itemvalue="Application.DoubleEqualToMethod" />
-        <item itemvalue="Application.HashCodeMethod" />
       </list>
     </recent_temporary>
   </component>

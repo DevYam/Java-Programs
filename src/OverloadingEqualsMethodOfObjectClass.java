@@ -27,5 +27,10 @@ public class OverloadingEqualsMethodOfObjectClass {
         // Although these objects are pointing to different memory location but this equals comparision returns
         //true because the equals method is overridden and now it checks for area
 
+        System.out.println(cir2.toString());    // Prints name_of_the_class@hashcodeOfTheObject --> Circle1@1b6d3586
+
+        //or we can try simply printing object it will call toString method of the object class implicitly
+        System.out.println(cir2);    // Prints name_of_the_class@hashcodeOfTheObject --> Circle1@1b6d3586
+
     }
 }
