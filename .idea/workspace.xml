@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1fa6fea-ef20-468b-9f4a-7a1b5ca8d6a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/push.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/HashCodeMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/HashCodeMethod.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HashCodeMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashCodeMethod.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -110,7 +108,7 @@
       <workItem from="1583898027754" duration="5369000" />
       <workItem from="1583937793216" duration="4969000" />
       <workItem from="1584161596233" duration="12021000" />
-      <workItem from="1585035669479" duration="3581000" />
+      <workItem from="1585035669479" duration="3847000" />
     </task>
     <servers />
   </component>
