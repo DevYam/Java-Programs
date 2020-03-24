@@ -28,6 +28,8 @@ public class CallOfMethodsInSubAndSuperClasses {
     public static void main(String[] args) {
         class4 obj = new class4();
         obj.call(); // This calls method in class 1
+        System.out.println(obj.hashCode()); // considers the memory address as hashcode of the object in heap area
+
 
     }
 }
