@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1fa6fea-ef20-468b-9f4a-7a1b5ca8d6a1" name="Default Changelist" comment="" />
+    <list default="true" id="b1fa6fea-ef20-468b-9f4a-7a1b5ca8d6a1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/InheritanceBasics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +42,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.implimentingInterfaces">
+  <component name="RunManager" selected="Application.InheritanceBasics">
+    <configuration name="InheritanceBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InheritanceBasics" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OverloadingEqualsMethodOfObjectClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OverloadingEqualsMethodOfObjectClass" />
       <module name="java" />
@@ -68,20 +78,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="table" />
-      <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InheritanceBasics" />
         <item itemvalue="Application.implimentingInterfaces" />
         <item itemvalue="Application.OverridingToStringMethodOfObjectClass" />
         <item itemvalue="Application.OverloadingEqualsMethodOfObjectClass" />
         <item itemvalue="Application.OverridingEqualsMethodOfObjectClass" />
-        <item itemvalue="Application.table" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +110,7 @@
       <workItem from="1583937793216" duration="4969000" />
       <workItem from="1584161596233" duration="12021000" />
       <workItem from="1585035669479" duration="5527000" />
-      <workItem from="1585499618133" duration="2089000" />
+      <workItem from="1585499618133" duration="4812000" />
     </task>
     <servers />
   </component>
