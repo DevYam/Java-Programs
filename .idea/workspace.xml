@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1fa6fea-ef20-468b-9f4a-7a1b5ca8d6a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OnlyParameterizedConstructorInSpuerClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -111,7 +110,7 @@
       <workItem from="1584161596233" duration="12021000" />
       <workItem from="1585035669479" duration="5527000" />
       <workItem from="1585499618133" duration="5849000" />
-      <workItem from="1585681907736" duration="1084000" />
+      <workItem from="1585681907736" duration="1574000" />
     </task>
     <servers />
   </component>
