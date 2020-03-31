@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1fa6fea-ef20-468b-9f4a-7a1b5ca8d6a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UnparameterizedSuperClassConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OnlyParameterizedConstructorInSpuerClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UnparameterizedSuperClassConstructor">
+  <component name="RunManager" selected="Application.OnlyParameterizedConstructorInSpuerClass">
     <configuration name="InheritanceBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InheritanceBasics" />
       <module name="java" />
@@ -50,8 +50,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OverloadingEqualsMethodOfObjectClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OverloadingEqualsMethodOfObjectClass" />
+    <configuration name="OnlyParameterizedConstructorInSpuerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OnlyParameterizedConstructorInSpuerClass" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OnlyParameterizedConstructorInSpuerClass" />
         <item itemvalue="Application.UnparameterizedSuperClassConstructor" />
         <item itemvalue="Application.InheritanceBasics" />
         <item itemvalue="Application.implimentingInterfaces" />
         <item itemvalue="Application.OverridingToStringMethodOfObjectClass" />
-        <item itemvalue="Application.OverloadingEqualsMethodOfObjectClass" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +111,7 @@
       <workItem from="1584161596233" duration="12021000" />
       <workItem from="1585035669479" duration="5527000" />
       <workItem from="1585499618133" duration="5849000" />
-      <workItem from="1585681907736" duration="496000" />
+      <workItem from="1585681907736" duration="1084000" />
     </task>
     <servers />
   </component>
