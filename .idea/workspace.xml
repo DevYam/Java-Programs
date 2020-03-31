@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1fa6fea-ef20-468b-9f4a-7a1b5ca8d6a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SuperEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SuperEx2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,14 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SuperEx1">
-    <configuration name="InheritanceBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InheritanceBasics" />
-      <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SuperEx2">
     <configuration name="OnlyParameterizedConstructorInSpuerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OnlyParameterizedConstructorInSpuerClass" />
       <module name="java" />
@@ -70,6 +63,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SuperEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SuperEx2" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UnparameterizedSuperClassConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UnparameterizedSuperClassConstructor" />
       <module name="java" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SuperEx2" />
         <item itemvalue="Application.SuperEx1" />
         <item itemvalue="Application.SecondRoleOfSuper" />
         <item itemvalue="Application.OnlyParameterizedConstructorInSpuerClass" />
         <item itemvalue="Application.UnparameterizedSuperClassConstructor" />
-        <item itemvalue="Application.InheritanceBasics" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +111,7 @@
       <workItem from="1585035669479" duration="5527000" />
       <workItem from="1585499618133" duration="5849000" />
       <workItem from="1585681907736" duration="1574000" />
-      <workItem from="1585683547416" duration="2600000" />
+      <workItem from="1585683547416" duration="3400000" />
     </task>
     <servers />
   </component>
