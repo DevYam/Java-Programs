@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1fa6fea-ef20-468b-9f4a-7a1b5ca8d6a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SecondRoleOfSuper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SuperEx1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SecondRoleOfSuper">
+  <component name="RunManager" selected="Application.SuperEx1">
     <configuration name="InheritanceBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InheritanceBasics" />
       <module name="java" />
@@ -64,6 +63,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SuperEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SuperEx1" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UnparameterizedSuperClassConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UnparameterizedSuperClassConstructor" />
       <module name="java" />
@@ -71,20 +77,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="implimentingInterfaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="implimentingInterfaces" />
-      <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SuperEx1" />
         <item itemvalue="Application.SecondRoleOfSuper" />
         <item itemvalue="Application.OnlyParameterizedConstructorInSpuerClass" />
         <item itemvalue="Application.UnparameterizedSuperClassConstructor" />
         <item itemvalue="Application.InheritanceBasics" />
-        <item itemvalue="Application.implimentingInterfaces" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +111,7 @@
       <workItem from="1585035669479" duration="5527000" />
       <workItem from="1585499618133" duration="5849000" />
       <workItem from="1585681907736" duration="1574000" />
-      <workItem from="1585683547416" duration="1489000" />
+      <workItem from="1585683547416" duration="2600000" />
     </task>
     <servers />
   </component>
@@ -153,5 +152,16 @@
       <screen x="0" y="23" width="1680" height="947" />
     </state>
     <state x="505" y="230" width="670" height="676" key="search.everywhere.popup/0.23.1680.947@0.23.1680.947" timestamp="1585076639853" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SuperEx1.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
