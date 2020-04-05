@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1fa6fea-ef20-468b-9f4a-7a1b5ca8d6a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MethodHidingEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClassAndMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +22,11 @@
   </component>
   <component name="ProjectId" id="1YW4Gt3uhWzHG2bI0QfOKDiDtuJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -30,19 +34,14 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.MethodHidingEx1">
+  <component name="RunManager" selected="Application.AbstractClassAndMethods">
+    <configuration name="AbstractClassAndMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractClassAndMethods" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MethodHidingEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MethodHidingEx1" />
       <module name="java" />
@@ -52,13 +51,6 @@
     </configuration>
     <configuration name="OverridingFact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OverridingFact" />
-      <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecondRoleOfSuper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SecondRoleOfSuper" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AbstractClassAndMethods" />
         <item itemvalue="Application.MethodHidingEx1" />
         <item itemvalue="Application.OverridingFact" />
         <item itemvalue="Application.SuperEx2" />
         <item itemvalue="Application.SuperEx1" />
-        <item itemvalue="Application.SecondRoleOfSuper" />
       </list>
     </recent_temporary>
   </component>
@@ -133,22 +125,26 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="253" key="GridCell.Tab.0.bottom" timestamp="1585076306670">
+    <state x="653" y="209" key="#com.intellij.ide.util.MemberChooser" timestamp="1586071304111">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1638" height="253" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1585076306670" />
-    <state width="1638" height="253" key="GridCell.Tab.0.center" timestamp="1585076306668">
+    <state x="653" y="209" key="#com.intellij.ide.util.MemberChooser/0.23.1680.947@0.23.1680.947" timestamp="1586071304111" />
+    <state width="1638" height="253" key="GridCell.Tab.0.bottom" timestamp="1586071604649">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1638" height="253" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1585076306668" />
-    <state width="1638" height="253" key="GridCell.Tab.0.left" timestamp="1585076306667">
+    <state width="1638" height="253" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1586071604649" />
+    <state width="1638" height="253" key="GridCell.Tab.0.center" timestamp="1586071604648">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1638" height="253" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1585076306667" />
-    <state width="1638" height="253" key="GridCell.Tab.0.right" timestamp="1585076306669">
+    <state width="1638" height="253" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1586071604648" />
+    <state width="1638" height="253" key="GridCell.Tab.0.left" timestamp="1586071604647">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1638" height="253" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1585076306669" />
+    <state width="1638" height="253" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1586071604647" />
+    <state width="1638" height="253" key="GridCell.Tab.0.right" timestamp="1586071604648">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="253" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1586071604648" />
     <state x="505" y="230" width="670" height="676" key="search.everywhere.popup" timestamp="1585076639853">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
