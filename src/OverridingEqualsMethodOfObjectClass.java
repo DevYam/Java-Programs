@@ -11,7 +11,7 @@ class Circle{
 
     }
     public boolean equals(Object object){
-        Circle c = (Circle)object;
+        Circle123 c = (Circle123)object;
         if (this.area()==c.area()){
             return true;
         }
@@ -23,9 +23,9 @@ class Circle{
 public class OverridingEqualsMethodOfObjectClass {
     public static void main(String[] args) {
 
-        Circle cir = new Circle(3);
-        Circle cir1 = new Circle(4);
-        Circle cir3 = new Circle(3);
+        Circle123 cir = new Circle123(3);
+        Circle123 cir1 = new Circle123(4);
+        Circle123 cir3 = new Circle123(3);
         System.out.println(cir.equals(cir3));   // Although cir and cir3 are pointing to different objects equals returns true because it is overridden and it is looking for area equality
     }
 }
