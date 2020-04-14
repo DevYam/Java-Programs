@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1fa6fea-ef20-468b-9f4a-7a1b5ca8d6a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ReadAndWriteToFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReadFileUsingFileReaderAndBufferedReader.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,16 +47,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReadFileUsingFileReader">
+  <component name="RunManager" selected="Application.ReadFileUsingFileReaderAndBufferedReader">
     <configuration name="Abcd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Abcd" />
-      <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AbstractClassAndMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AbstractClassAndMethods" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,13 +76,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReadFileUsingFileReaderAndBufferedReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReadFileUsingFileReaderAndBufferedReader" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReadFileUsingFileReaderAndBufferedReader" />
         <item itemvalue="Application.ReadFileUsingFileReader" />
         <item itemvalue="Application.Circle123" />
         <item itemvalue="Application.C1" />
         <item itemvalue="Application.Abcd" />
-        <item itemvalue="Application.AbstractClassAndMethods" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +120,7 @@
       <workItem from="1585683547416" duration="5665000" />
       <workItem from="1586509650214" duration="8000" />
       <workItem from="1586632364851" duration="840000" />
-      <workItem from="1586889554449" duration="5735000" />
+      <workItem from="1586889554449" duration="6180000" />
     </task>
     <servers />
   </component>
