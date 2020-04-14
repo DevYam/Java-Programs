@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1fa6fea-ef20-468b-9f4a-7a1b5ca8d6a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/InterfaceArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReadAndWriteToFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OverridingEqualsMethodOfObjectClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OverridingEqualsMethodOfObjectClass.java" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Circle123">
+  <component name="RunManager" selected="Application.ReadFileUsingFileReader">
     <configuration name="Abcd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Abcd" />
       <module name="java" />
@@ -77,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodHidingEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodHidingEx1" />
+    <configuration name="ReadFileUsingFileReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReadFileUsingFileReader" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReadFileUsingFileReader" />
         <item itemvalue="Application.Circle123" />
         <item itemvalue="Application.C1" />
         <item itemvalue="Application.Abcd" />
         <item itemvalue="Application.AbstractClassAndMethods" />
-        <item itemvalue="Application.MethodHidingEx1" />
       </list>
     </recent_temporary>
   </component>
@@ -119,6 +119,9 @@
       <workItem from="1585499618133" duration="5849000" />
       <workItem from="1585681907736" duration="1574000" />
       <workItem from="1585683547416" duration="5665000" />
+      <workItem from="1586509650214" duration="8000" />
+      <workItem from="1586632364851" duration="840000" />
+      <workItem from="1586889554449" duration="5735000" />
     </task>
     <servers />
   </component>
