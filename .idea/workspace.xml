@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1fa6fea-ef20-468b-9f4a-7a1b5ca8d6a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FileWritingUsingBufferedWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparableInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/FileWritingUsingBufferedWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/FileWritingUsingBufferedWriter.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,9 +49,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FileWritingUsingBufferedWriter">
-    <configuration name="Circle123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Circle123" />
+  <component name="RunManager" selected="Application.ComparableInterface">
+    <configuration name="ComparableInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComparableInterface" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComparableInterface" />
         <item itemvalue="Application.FileWritingUsingBufferedWriter" />
         <item itemvalue="Application.FileWriterExample" />
         <item itemvalue="Application.ReadFileUsingFileReaderAndBufferedReader" />
         <item itemvalue="Application.ReadFileUsingFileReader" />
-        <item itemvalue="Application.Circle123" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +122,11 @@
       <workItem from="1585683547416" duration="5665000" />
       <workItem from="1586509650214" duration="8000" />
       <workItem from="1586632364851" duration="840000" />
-      <workItem from="1586889554449" duration="7822000" />
+      <workItem from="1586889554449" duration="8744000" />
+      <workItem from="1586898794234" duration="121000" />
+      <workItem from="1586986322330" duration="6000" />
+      <workItem from="1587260108570" duration="668000" />
+      <workItem from="1587598219508" duration="1609000" />
     </task>
     <servers />
   </component>
