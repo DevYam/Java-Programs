@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1fa6fea-ef20-468b-9f4a-7a1b5ca8d6a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ComparatorInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionEx1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/Box.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/ComparableInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/ComparableInterface.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ComparatorInterface">
+  <component name="RunManager" selected="Application.ExceptionEx1">
     <configuration name="ComparableInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ComparableInterface" />
       <module name="java" />
@@ -60,6 +58,13 @@
     </configuration>
     <configuration name="ComparatorInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ComparatorInterface" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionEx1" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,20 +84,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadFileUsingFileReaderAndBufferedReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReadFileUsingFileReaderAndBufferedReader" />
-      <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExceptionEx1" />
         <item itemvalue="Application.ComparatorInterface" />
         <item itemvalue="Application.ComparableInterface" />
         <item itemvalue="Application.FileWritingUsingBufferedWriter" />
         <item itemvalue="Application.FileWriterExample" />
-        <item itemvalue="Application.ReadFileUsingFileReaderAndBufferedReader" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +125,7 @@
       <workItem from="1586898794234" duration="121000" />
       <workItem from="1586986322330" duration="6000" />
       <workItem from="1587260108570" duration="668000" />
-      <workItem from="1587598219508" duration="8644000" />
+      <workItem from="1587598219508" duration="10241000" />
     </task>
     <servers />
   </component>
