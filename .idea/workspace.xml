@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1fa6fea-ef20-468b-9f4a-7a1b5ca8d6a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExceptionEx2.java" afterDir="false" />
-    </list>
+    <list default="true" id="b1fa6fea-ef20-468b-9f4a-7a1b5ca8d6a1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +122,7 @@
       <workItem from="1586898794234" duration="121000" />
       <workItem from="1586986322330" duration="6000" />
       <workItem from="1587260108570" duration="668000" />
-      <workItem from="1587598219508" duration="10540000" />
+      <workItem from="1587598219508" duration="11256000" />
     </task>
     <servers />
   </component>
